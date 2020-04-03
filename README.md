@@ -1,12 +1,13 @@
 ## 百度文库群主页
 
-You can use the [editor on GitHub](https://github.com/han1624/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+群号码： [959984568](https://jq.qq.com/?_wv=1027&k=5XXSJUS) 点击群号码即可进入QQ群
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+联系方式：
+QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:16024062:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+群主页：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c53a63883b107429699fcd11d89b45588d53f317350473d51a792003d86bc429"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="百度文库下载✓" title="百度文库下载✓"></a>
+### Bulletin Board
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
