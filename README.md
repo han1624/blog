@@ -36,4 +36,3 @@ QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&m
  
 ### 短视频去水印工具在线
 [传送门](http://www.tingsang.com). 支持各大短视频平台去水印.
-
