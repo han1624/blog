@@ -27,11 +27,11 @@ QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&m
 
 ### 百度文库解析工具在线
 
-[传送门](www.hiwenku.com). 机器人无效时，可自行使用该网站解析下载.
+[传送门](http://so.jutuit.com/zd/wenku/0/). 机器人无效时，可自行使用该网站解析下载.
 
 ### 文件格式转换工具在线
 
-[传送门1](www.pdfpai.com) 或者 [传送门2](https://convertio.co/zh/pdf-converter/) 在线转换文件格式，最高支持100M
+[传送门1](http://www.html22.com/doc/) 或者 [传送门2](https://convertio.co/zh/pdf-converter/) 在线转换文件格式，最高支持100M
  
 ### 短视频去水印工具在线
 [传送门](http://www.tingsang.com). 支持各大短视频平台去水印.
