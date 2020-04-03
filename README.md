@@ -18,7 +18,7 @@ QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&m
 
 更强大的娱乐群管引流机器人，价格如下：
 10RMB/月   25RMB/季度   40RMB/半年   60RMB/年
-购买联系：见联系方式
+购买联系：QQ：16024062
 
 [Link](www.baidu.com)
 ```
@@ -31,7 +31,7 @@ QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&m
 
 ### 文件格式转换工具在线
 
-[传送门1](www.cleverpdf.com) 或者 [传送门2](https://jq.qq.com/?_wv=1027&k=5XXSJUS) 在线转换文件格式，最高支持100M
+[传送门1](www.pdfpai.com) 或者 [传送门2](https://convertio.co/zh/pdf-converter/) 在线转换文件格式，最高支持100M
  
 ### 短视频去水印工具在线
 [传送门](http://www.tingsang.com). 支持各大短视频平台去水印.
