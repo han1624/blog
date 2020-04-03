@@ -9,7 +9,7 @@ QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&m
 
 
 
-```Bulletin Board
+```
 百度文库机器人使用说明
 
 # Header 1
