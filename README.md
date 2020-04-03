@@ -18,7 +18,7 @@ QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&m
 
 更强大的娱乐群管引流机器人，价格如下：
 10RMB/月   25RMB/季度   40RMB/半年   60RMB/年
-购买联系：[16024062](http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&menu=yes)
+购买联系：见联系方式
 
 [Link](www.baidu.com)
 ```
