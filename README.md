@@ -5,7 +5,6 @@
 联系方式：
 QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:16024062:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 群主页：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c53a63883b107429699fcd11d89b45588d53f317350473d51a792003d86bc429"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="百度文库下载✓" title="百度文库下载✓"></a>
-#### 请收藏本站，后续群公告都将在这里推送
 ### 公 告 栏
 
 
@@ -24,7 +23,7 @@ QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&m
 管理员有空时可以帮忙下载，更多时间请自行下载。
 请不要将本机器人用于个人商业用途，本机器人一直提供免费下载，不足之处会慢慢改善。
 后续会增加更多功能，敬请期待！ 
-
+###请收藏本站，后续公告和活动都优先在这里推送！
 ```
 ### 常 见 问 题
 ```
@@ -52,6 +51,9 @@ QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&m
 11.如果积分不够，可以怎样快速获得？
 目前机器人只支持群内签到获得，不定期签到积分翻倍，也不定期群内推送一些活动，参与即可获得。
 ```
+````
+hello
+````
 更多使用及工具请关注微信公众号 [Han Area]
 支持趣味聊天、查询快递、查淘宝京东拼多多优惠券、查找商品、网课查题。
 
