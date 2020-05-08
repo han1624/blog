@@ -6,7 +6,7 @@
 QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:16024062:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 群主页：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c53a63883b107429699fcd11d89b45588d53f317350473d51a792003d86bc429"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="百度文库下载✓" title="百度文库下载✓"></a>
 ### 公 告 栏
-
+#### 请收藏本站，后续群公告都将在这里推送
 
 
 ```
