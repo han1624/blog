@@ -5,6 +5,9 @@
 联系方式：
 QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:16024062:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 群主页：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c53a63883b107429699fcd11d89b45588d53f317350473d51a792003d86bc429"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="百度文库下载✓" title="百度文库下载✓"></a>
+### 线报活动群
+点击加群：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=9895de6ede796a86f97b34031c2be27274ff11e0f9187081ee24a3114ef3d967"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="👑线报活动分享①群" title="👑线报活动分享①群"></a>
+群内长期提供各大电商平台商品优惠券和福利活动，省钱党可以进~
 ### 公 告 栏
 
 
