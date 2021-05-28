@@ -51,7 +51,7 @@ QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&m
 
 ### 百度文库解析工具在线
 
-[传送门](http://so.jutuit.com/zd/wenku/0/). 机器人无效时，可自行使用该网站解析下载.
+[传送门](http://api.bdwenku.com/). 机器人无效时，可自行使用该网站解析下载.
 
 ### 文件格式转换工具在线
 
