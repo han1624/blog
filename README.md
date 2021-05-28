@@ -58,7 +58,7 @@ QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=16024062&site=qq&m
 [传送门1](http://www.html22.com/doc/) 或者 [传送门2](https://convertio.co/zh/pdf-converter/) 在线转换文件格式，最高支持100M
  
 ### 短视频去水印工具在线
-[传送门](http://www.tingsang.com). 支持各大短视频平台去水印.
+[传送门](http://www.haiya360.com/). 支持各大短视频平台去水印.
 
 ``
 请收藏本站，后续公告和活动都优先在这里推送
